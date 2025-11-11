@@ -5,7 +5,7 @@ name: CI/CD Pipeline
 
 on:
   push:
-    branches: [ "quintob" ]
+    branches: [ "david" ]
 
 permissions:
   contents: read
